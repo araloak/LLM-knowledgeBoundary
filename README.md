@@ -8,7 +8,7 @@ Please carefully use the data in this package as they’re AI-generated contents
 
 Please cite our paper if it helps🤗.
 
-```json
+```bibtex
 @inproceedings{
 wen2024perception,
 title={Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering},
